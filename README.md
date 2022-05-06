@@ -1,1 +1,1 @@
-# .github
+# Landing page
